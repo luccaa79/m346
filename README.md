@@ -160,7 +160,7 @@ mysql -u admin -p
 
 Danach mit folgendem Passwort anmelden:
 
-- **Passwort:** `AdM123!`
+- **Passwort:** `xxx`
 
 ![Abbildung 7: Zugriff auf den Datenbankserver](images/image2.png)
 *Abbildung 7: Zugriff auf den Datenbankserver*
