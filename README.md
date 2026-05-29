@@ -113,7 +113,7 @@ mit `git clone` nicht möglich.
 
 Repository klonen
 ```bash
-git clone https://github.com/K-Y-77/Project-M.346.git
+git clone https://github.com/luccaa79/m346
 ```
  
 ins Verzeichnis wechseln:
